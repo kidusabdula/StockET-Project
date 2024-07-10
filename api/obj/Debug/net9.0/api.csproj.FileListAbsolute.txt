@@ -284,3 +284,4 @@ C:\Users\deaun\OneDrive\Documents\Visual Studio 2022\StockET\api\obj\Debug\net9.
 C:\Users\deaun\OneDrive\Documents\Visual Studio 2022\StockET\api\obj\Debug\net9.0\api.pdb
 C:\Users\deaun\OneDrive\Documents\Visual Studio 2022\StockET\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 C:\Users\deaun\OneDrive\Documents\Visual Studio 2022\StockET\api\obj\Debug\net9.0\ref\api.dll
+C:\Users\deaun\OneDrive\Documents\Visual Studio 2022\StockET\api\obj\Debug\net9.0\api.sourcelink.json
